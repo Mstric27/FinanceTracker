@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "test-mobile-framework",
-    "slug": "test-mobile-framework",
+    "name": "finance-tracker",
+    "slug": "finance-tracker",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
